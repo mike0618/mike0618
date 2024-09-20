@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 ## Some facts: 
 
+- I built a website for my friend [ReggieBenderBooks](https://reggiebenderbooks.com)
+
 - I solved some problems on [Project Euler](https://projecteuler.net/archives) 
 
 ![badge](https://projecteuler.net/profile/mike0618.png)
