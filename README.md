@@ -33,6 +33,13 @@ Here are some ideas to get you started:
 - Kafka
 - CNC G-code
 
+## I am learning now:
+
+- Java
+- C++
+- Cybersecurity
+- Ethical Hacking
+
 ## Some facts: 
 
 - I built a website for my friend [ReggieBenderBooks](https://reggiebenderbooks.com)
