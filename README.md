@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 - Linux, Nginx, Tmux, NeoVim (LazyVim), Zsh, Git
 - Python, Flask, SQLAlchemy, Pandas, Matplotlib, CustomTkinter
+- Docker
+- Ollama AI
 - SQLite, PostgreSQL, OracleDB
 - Kafka
 - CNC G-code
