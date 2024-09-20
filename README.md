@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - Kafka
 - CNC G-code
 
-## Fun facts: 
+## Some facts: 
 
 - I solved some problems on [Project Euler](https://projecteuler.net/archives) 
 
