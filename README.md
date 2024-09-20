@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## Technologies that I use:
 
-- Linux, Nginx, Tmux, NeoVim (LazyVim), Zsh
+- Linux, Nginx, Tmux, NeoVim (LazyVim), Zsh, Git
 - Python, Flask, SQLAlchemy, Pandas, Matplotlib, CustomTkinter
 - SQLite, PostgreSQL, OracleDB
 - Kafka
