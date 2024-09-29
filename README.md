@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - I got a [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) certificate 
 
 ![certificate](https://github.com/mike0618/mike0618/blob/main/UC-0c52d082-7738-4721-89fb-a4a22fc8c9a0.jpg)
-- I use Arch btw ;)
+- I use Arch and NeoVim btw ;)
 
 ## Get in Touch:
 
